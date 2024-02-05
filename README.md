@@ -1,1 +1,0 @@
-"# react-gradient-palette-demo" 
